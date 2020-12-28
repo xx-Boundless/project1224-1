@@ -10,6 +10,7 @@ public class Test1 {
     @Test
     public void testLm(){
         System.out.println("测试代码是否能执行--lm");
+        System.out.println("这次测的是Git");
     }
 
     @Test
